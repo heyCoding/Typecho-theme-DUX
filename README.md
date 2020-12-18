@@ -17,6 +17,6 @@ https://blog.hicasper.com
 # 赞助作者
 如果觉得此作品对你有帮助，可以打赏一下作者，感谢您的帮助！
 
-[![](https://i.loli.net/2020/06/12/udQD8TMfbRYmH1I.png)](https://www.hicasper.com/pay/)
+
 
 >本主题仅基于爱好修改，使用时请尊重原作者大前端版权。
